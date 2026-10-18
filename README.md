@@ -35,7 +35,7 @@ Untuk beralih ke API, cukup ganti isi `fetchAll()` dengan `http.get(...)` lalu
 
 ## Cara Menjalankan
 1. Pasang Flutter SDK (>= 3.x) dan emulator/perangkat.
-2. `git clone <[link-repo](https://github.com/Naswavi/Jelajah-Wisataaa.git)>` lalu `cd jelajah_wisata`
+2. `git clone https://github.com/Naswavi/Jelajah-Wisataaa.git` lalu `cd jelajah_wisata`
 3. Jika folder platform belum ada: `flutter create .`
 4. `flutter pub get`
 5. `flutter run`
