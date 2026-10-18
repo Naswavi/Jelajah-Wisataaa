@@ -1,6 +1,6 @@
 # Jelajah Wisata Malang
 
-Aplikasi mobile Flutter untuk UTS Mobile Programming (Ganjil 2025/2026).
+Aplikasi mobile Flutter untuk UTS Mobile Programming (Ganjil 2026/2027).
 
 ## Tema dan Tujuan
 Katalog destinasi wisata Malang Raya (alam, budaya, kuliner, rekreasi) agar pengguna
